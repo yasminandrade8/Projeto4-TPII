@@ -74,12 +74,12 @@ console.log("Mesma Instância: ", veiculo1 === veiculo2); // Retorna true
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/yasminandrade8/SEU-REPOSITORIO.git
+   git clone https://github.com/yasminandrade8/Projeto4-TPII.git
    ```
 
 2. **Acesse a pasta do projeto:**
    ```bash
-   cd SEU-REPOSITORIO
+   cd Projeto4-TPII
    ```
 
 3. **Execute o projeto:**
